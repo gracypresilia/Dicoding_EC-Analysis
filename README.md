@@ -1,10 +1,10 @@
 # Dicoding_EC-Analysis
 This project is a remake of the Dicoding Academy assignment, E-Commerce Data Analysis, with enhanced data analysis and visualization. The goal is to answer various business questions related to an e-commerce company’s performance.
 
-## Key Objectives
-- **Company's Sales and Revenue**: Analyzing the company's sales and revenue on a month-to-month basis to understand trends and business performance.
-- **Customer Locations**: Identifying where customers are making their transactions by analyzing the geographical distribution of customer locations.
-- **Location Relationships**: Examining the correlation between customer locations and seller locations involved in transactions to identify regional patterns within the e-commerce ecosystem.
+## Key Objectives and Results
+- **Company's Sales and Revenue**: Analyzed the company's sales and revenue on a month-to-month basis to understand trends and business performance. The results show a tending upward trend, indicating improved performance and increasing customer trust.
+- **Customer Locations**: Identified where customers are making their transactions by analyzing the geographical distribution of customer locations. The results show that the company's customers are distributed across 4,110 cities, with an average of 24 customers per city. Sao Paulo has the highest number of customers, totaling 15,402.
+- **Location Relationships**: Examined the correlation between customer locations and seller locations involved in transactions to identify regional patterns within the e-commerce ecosystem. The results show a positive correlation: the higher the number of customers in a city, the more diverse the seller locations transacting with those customers.
 
 ## Raw Dataset
 [Kaggle: Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
